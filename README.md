@@ -61,12 +61,12 @@ Executing the project.
 Step3 :
 Finally! Run the project executable file.
 
-Members
-Krish Nariya
-Aakarsh Lohani
-Piyusha Mukherjee
-Nivedha Sriram
-Priyam Kotnala
+Members : 
+Krish Nariya, 
+Aakarsh Lohani, 
+Piyusha Mukherjee, 
+Nivedha Sriram, 
+Priyam Kotnala, 
 Dave Meshak
 
 References
