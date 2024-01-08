@@ -36,7 +36,7 @@ Getting Started
 Step1 :
 Clone the repository(make sure git is installed)
 
-    git clone https://github.com/dave1725/File_compressor.git
+    git clone (https://github.com/Nivedhasriram/File-Compressor)
     
 Step2 :
 
